@@ -13,3 +13,6 @@ Hadasim 4 home exercise implementation
 7.	ערים: City: קוד עיר (PK), שם עיר.
 
 לצורך התקנת מסד הנתונים יש להריץ את השאילה המצורפת בקובץ HealthClinic.sql (נוסה הותקן בSQL SERVER).
+
+לא לגמרי הסתדרתי עם ההעלאה של כל הקבצים לכאן, לכן העלתי גם לענן:
+https://drive.google.com/drive/folders/1XF4DYWCJx1T6UzESmScSKQi3wfkxI_By?usp=sharing
