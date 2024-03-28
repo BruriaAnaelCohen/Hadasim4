@@ -92,7 +92,7 @@ Scaffold-DbContext "Server= DESKTOP-BRURIAA; Database=HealthClinic; Trusted_Conn
 בלחיצה על Vaccinations יוצג העמוד הבא:
 כל קוביה מייצגת מידע אודות חיסון בודד עבור כל החברים.
 ![מידע על כל החיסונים](https://github.com/BruriaAnaelCohen/Hadasim4/assets/149057415/5316e139-de77-465e-89d1-7b6d6c12dc6b)
-בלחיצה על Informatiin מוצגת כמות החולים בקופת החולים אשר אינם מחוסנים כלל:
+בלחיצה על Information מוצגת כמות החולים בקופת החולים אשר אינם מחוסנים כלל:
 ![כמות לא מחוסנים](https://github.com/BruriaAnaelCohen/Hadasim4/assets/149057415/3818f184-d3b6-466f-8bc4-1707a63b3d69)
 מתוך העמוד של כל אוסף חברי הקופה, לחיצה על חבר מסויים, תוביל לעמוד חדש בו מוצג מידע אישי אודות החבר: פרטים אישיים, (כולל תמונה) וכן מידע אודות החיסונים שלו (אם התחסן) ותקופות בהן היה חולה (אם היה חולה קורונה אי פעם).
 ![קומפוננט חבר פרטי ](https://github.com/BruriaAnaelCohen/Hadasim4/assets/149057415/76348243-6e93-4729-98f5-2ae2a2826e0d)
@@ -101,6 +101,6 @@ Scaffold-DbContext "Server= DESKTOP-BRURIAA; Database=HealthClinic; Trusted_Conn
 להוספת מידע על חולי של חבר קופ"ח, נינתן ללחוץ על הכפתור "הוסף תקופת חולי", שינתב לרכיב המכיל טופס הוספת חולי עבור אותו חבר:
 ![טופס הוספת חולי לפציינט, להגיע דרך פציינט פרטי](https://github.com/BruriaAnaelCohen/Hadasim4/assets/149057415/149d3c21-2bd8-4d8c-b250-7ae7bae8c542)
 בכל שלב, לחיצה על האייקון הראשי תוביל לדף הראשי של הקופה.
-השימוש באתר מובן ופשוט. בהצלחה!!
+השימוש באתר מובן, נעים לעין ופשוט. בהצלחה!!
 
 All Rights Reserved to Bruria Anael Cohen
