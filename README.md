@@ -2,7 +2,7 @@
 Hadasim 4 home exercise implementation 
 
 
-שלום וברכה, ברורכים הבאים לRepository שלי!
+שלום וברכה, ברוכים הבאים לRepository שלי!
 
 
 לא לגמרי הסתדרתי עם ההעלאה של כל הקבצים לכאן, לכן העלתי גם לענן:
