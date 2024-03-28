@@ -85,8 +85,3 @@ INSERT INTO SicknessPeriod (patientCode, infectionDate, recoveryDate,stts) VALUE
 ( 1,'2022-12-01', '2023-01-01',1),
 ( 2, '2022-11-10', '2022-12-10',0);
 
---create table Family(
---	familyCode,
---	familyName,
---	addressCode
---);
