@@ -85,8 +85,7 @@ Scaffold-DbContext "Server= DESKTOP-BRURIAA; Database=HealthClinic; Trusted_Conn
 בלחיצה על 'מידע נוסף' ניתן לראות כמה חברי קופ"ח אינם מחוסינם כלל.
 (במאמר מוסגר: ננעשה כל מאמץ לשפר את התוצר ולתקן את השגיאות בטווח הזמן הנתון).
 
-בניית מפרט ארכיטקטוני של המערכת: עבור כל ישות בAngular ישנו Service נפרד: עבור Patient יש PatientService וכו'. כל התקשורת עם השרת הAPI נוצרת כאן: הService של Patient מתקשר עם PatientController ושלוח אליו את הבקשות הבאות: Get עבורGetAll(), GetObject(int code)t, Post עבור Add(p:Patient), Put עבור עדכון חבר וDelete עבור מחיקת חבר Delete(int pcode).
-
+בניית מפרט ארכיטקטוני של המערכת: עבור כל ישות בAngular ישנו Service נפרד: עבור Patient יש PatientService וכו'. כל התקשורת עם השרת הAPI נוצרת כאן: הService של Patient מתקשר עם PatientController ושולח אליו את הבקשות הבאות: Get עבורGetAll(), GetObject(code:number), Post עבור Add(p:Patient), Put עבור עדכון חבר Update(p:Patient, pcode:number), וDelete עבור מחיקת חבר Delete(pcode:number).
 להלן צילומי מסך והסבר אודות תהליך השימוש באתר: 
 ראשית כאמור, יש לצור את מסד הנתונים (שימוש בשאילתה הנתונה לעיל). יש לפתוח את ה Solution ולהריץ את השרת.
 מצורפת תקיה בשם src אותה יש לשתול בספרית Angular ולהריץ את הפקודה המעלה את האתר: ng s -o
