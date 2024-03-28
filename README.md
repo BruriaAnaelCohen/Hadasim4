@@ -3,7 +3,10 @@ Hadasim 4 home exercise implementation
 
 לא לגמרי הסתדרתי עם ההעלאה של כל הקבצים לכאן, לכן העלתי גם לענן:
 https://drive.google.com/drive/folders/1XF4DYWCJx1T6UzESmScSKQi3wfkxI_By?usp=sharing
-
+שם מסודרים הקבצים טוב יותר. (מצטערת, לא ידעתי איך להסיר קבצים מהRepository.
+תרגיל מספר 1 מופיע כאן כקובץ ZIP בשם Exersice 1, בגלל גדלו היה קשה להעלות אותו (אם יש בעיה איתו, יש עותק שלו בGOOGLE DRIVE, קישור לעיל).
+תרגיל מספר 2 מופיע בתקיה בשם Exercise 2, שדרוג שלו מופיע בקובץ פייתון בודד בשם Exercise 2 Twitter towwers using OOP updated.py
+תרגיל מספר 3 מופיע כקובץ WORD בשם 
 תרגיל מספר 1:
 
 **מסד נתונים: **
