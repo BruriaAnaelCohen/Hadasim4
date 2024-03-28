@@ -9,7 +9,6 @@ Hadasim 4 home exercise implementation
 https://drive.google.com/drive/folders/1XF4DYWCJx1T6UzESmScSKQi3wfkxI_By?usp=sharing
 שם מסודרים הקבצים טוב יותר. (מצטערת, לא ידעתי איך להסיר קבצים מהRepository).
 
-מה תמצאו כאן:
 תרגיל מספר 1 מופיע כאן כקובץ ZIP בשם Exersice 1, בגלל גדלו היה קשה להעלות אותו (אם יש בעיה, יש עותק שלו בGOOGLE DRIVE, קישור לעיל).
 תרגיל מספר 2 מופיע בתקיה בשם Exercise 2, שדרוג שלו מופיע בקובץ פייתון בודד בשם Exercise 2 Twitter towwers using OOP updated.py
 תרגיל מספר 3 מופיע כקובץ WORD בשם תשובה מילולית שאלה 3 ברוריה ענהאל כהן.docx
